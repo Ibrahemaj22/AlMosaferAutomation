@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-15T21:30:14 EET" name="Default suite" finished-at="2025-01-15T21:30:35 EET" duration-ms="20608">
+    <groups>
+    </groups>
+    <test started-at="2025-01-15T21:30:14 EET" name="Default test" finished-at="2025-01-15T21:30:35 EET" duration-ms="20608">
+      <class name="AlmosaferTest.MyTestCases">
+        <test-method is-config="true" signature="mySetUp()[pri:0, instance:AlmosaferTest.MyTestCases@5d9b7a8a]" started-at="2025-01-15T21:30:14 EET" name="mySetUp" finished-at="2025-01-15T21:30:17 EET" duration-ms="2881" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetUp -->
+        <test-method signature="DefaultLanguageIsEnglish()[pri:1, instance:AlmosaferTest.MyTestCases@5d9b7a8a]" started-at="2025-01-15T21:30:17 EET" name="DefaultLanguageIsEnglish" description="Default Language is English" finished-at="2025-01-15T21:30:17 EET" duration-ms="62" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DefaultLanguageIsEnglish -->
+        <test-method signature="DefaultCurrencyIsSar()[pri:2, instance:AlmosaferTest.MyTestCases@5d9b7a8a]" started-at="2025-01-15T21:30:17 EET" name="DefaultCurrencyIsSar" description="Default Currency is SAR " finished-at="2025-01-15T21:30:17 EET" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DefaultCurrencyIsSar -->
+        <test-method signature="ContactNumberIsCorrect()[pri:3, instance:AlmosaferTest.MyTestCases@5d9b7a8a]" started-at="2025-01-15T21:30:17 EET" name="ContactNumberIsCorrect" description="Contact Number is Correct " finished-at="2025-01-15T21:30:17 EET" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ContactNumberIsCorrect -->
+        <test-method signature="QitafLogoIsDisplayed()[pri:4, instance:AlmosaferTest.MyTestCases@5d9b7a8a]" started-at="2025-01-15T21:30:17 EET" name="QitafLogoIsDisplayed" description="Qitaf Logo Is Displayed in Footer" finished-at="2025-01-15T21:30:17 EET" duration-ms="60" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QitafLogoIsDisplayed -->
+        <test-method signature="HotelTabIsNotSelected()[pri:5, instance:AlmosaferTest.MyTestCases@5d9b7a8a]" started-at="2025-01-15T21:30:17 EET" name="HotelTabIsNotSelected" description="Hotel Tab Is Not Selected" finished-at="2025-01-15T21:30:17 EET" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HotelTabIsNotSelected -->
+        <test-method signature="CheckDepartureDate()[pri:6, instance:AlmosaferTest.MyTestCases@5d9b7a8a]" started-at="2025-01-15T21:30:17 EET" name="CheckDepartureDate" description="Departure Date" finished-at="2025-01-15T21:30:17 EET" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckDepartureDate -->
+        <test-method signature="CheckReturnDate()[pri:7, instance:AlmosaferTest.MyTestCases@5d9b7a8a]" started-at="2025-01-15T21:30:17 EET" name="CheckReturnDate" description="Return Date" finished-at="2025-01-15T21:30:17 EET" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckReturnDate -->
+        <test-method signature="RandomlyChangeWebsiteLanguage()[pri:8, instance:AlmosaferTest.MyTestCases@5d9b7a8a]" started-at="2025-01-15T21:30:17 EET" name="RandomlyChangeWebsiteLanguage" description="Change Website Language Randomly" finished-at="2025-01-15T21:30:35 EET" duration-ms="17419" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RandomlyChangeWebsiteLanguage -->
+      </class> <!-- AlmosaferTest.MyTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
